@@ -1,0 +1,146 @@
+{
+  "company": {
+    "name": "Що ми пропонуємо?",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Головна",
+      "href": "#"
+    },
+    {
+      "name": "О нас",
+      "href": "product"
+    },
+    {
+      "name": "Послуги",
+      "href": "features"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Академія обліку",
+    "description": "Наша компанія - це команда експертів у галузі бухгалтерії та фінансів, готових запропонувати вам найпередовіші рішення та якісне обслуговування. Ми розуміємо, що кожен бізнес унікальний, тому ми розробляємо індивідуальні підходи, які відповідають вашим потребам та цілям.\n\nНаш успіх будується на довірі, яку ви нам надаєте. Ми цінуємо та поважаємо наших клієнтів, і їхня задоволеність – наш головний пріоритет. Наша команда завжди готова вислухати вас, відповісти на ваші запитання та надати професійну консультацію.",
+    "img": "/assets/images/businessMeeting.jpg",
+    "primaryAction": {
+      "text": "Детальніше",
+      "href": "About"
+    },
+    "secondaryAction": {
+      "text": "Зв'язатися з нами",
+      "href": "mailto:info@auria.com.ua?subject=Хочу співпрацювати!"
+    }
+  },
+  "product": {
+    "title": "Що ми пропонуємо?",
+    "items": [
+      {
+        "title": "Бухгалтерське обслуговування",
+        "description": "— Сучасні та актуальні бухгалтерські та правові системи – ми завжди на крок попереду, щоб ваш облік був максимально ефективним.\n\n— Індивідуальний підхід - ми розуміємо, що кожен клієнт унікальний, тому розробляємо стратегії, що базуються на ваших потребах та цілях.\n\n— Гарантовано високий рівень кваліфікації та професійний підхід - наша команда експертів знає всі нюанси бухгалтерії та має досвід, щоб забезпечити вам найкраще обслуговування.",
+        "img": "/assets/images/accounting-service.jpg"
+      },
+      {
+        "title": "Юридичне обслуговування",
+        "description": "— Вирішуємо всі ваші поточні юридичні питання – ми на вашому боці готові допомогти у будь-якій ситуації.\n\n— Скорочення витрат, підвищення кваліфікації – забудьте про витрати на штатного юриста. Ми пропонуємо експертне обслуговування за вигідною ціною.\n\n— Довіра, компетентність, відповідальність – ми цінуємо кожного клієнта та гарантуємо конфіденційність.",
+        "img": "/assets/images/Legal-services.jpg"
+      },
+      {
+        "title": "Податкове планування",
+        "description": "— Законна оптимізація оподаткування – ми знаємо всі тонкощі та можливості, щоб зменшити ваше податкове навантаження.\n\n— Алгоритми обліку для співробітників – ми створюємо та впроваджуємо ефективні системи, щоб полегшити вашим співробітникам облікові процеси.\n\n— Консультації для керівництва – ми надаємо експертні поради щодо оподаткування, допомагаючи вам приймати усвідомлені рішення.\n\n— Ефективне фінансове управління – ми забезпечуємо професійне управління вашими фінансами, щоб ви могли зосередитись на зростанні вашого бізнесу.",
+        "img": "/assets/images/tax-services.jpg"
+      }
+    ]
+  },
+  "features": {
+    "subtitle": "Наші основні послуги",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "Бугалтерські",
+        "description": "— Комплексне бухгалтерське обслуговування\n— Постановка, відновлення та автоматизація обліку\n— Функція \"Головний бухгалтер\"",
+        "icon": "/assets/images/handWithCoinIcon.png"
+      },
+      {
+        "name": "Юридичні",
+        "description": "— Комплексне правове обслуговування\n— Створення бізнесу та реєстраційні послуги\n— Захист бізнесу, надання правових висновків з питань застосування норм податкового законодавства\n— Захист авторських прав, реєстрація торгових марок, патентів",
+        "icon": "/assets/images/hummerOfJusticeIcon.png"
+      },
+      {
+        "name": "Комплексне обслуговування",
+        "description": "— Супровід Вашого бізнесу з усіх питань, що стосуються господарської діяльності.",
+        "icon": "/assets/images/complexService.png"
+      },
+      {
+        "name": "Онлайн-консультації",
+        "description": "— Усні та письмові консультації щодо норм чинного законодавства, підзаконних нормативних актів, передбачених правил ведення бухгалтерського та податкового обліку або відповідальності за порушення вищевказаних норм",
+        "icon": "/assets/images/operatorService.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "+380635770708",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "+380686009999",
+        "href": "product",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "+380665529422",
+        "href": "features",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "facebook": "https://facebook.com/akademia.ucheta/",
+      "instagram": "https://.instagram.com/akademia.ucheta/",
+      "telegram": "https://t.me/ksenia_au"
+    }
+  }
+}
